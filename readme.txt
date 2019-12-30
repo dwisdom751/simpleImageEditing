@@ -1,0 +1,1 @@
+This is a pretty simple program I made in my spare time.  It can be used to create several effects on pictures.
